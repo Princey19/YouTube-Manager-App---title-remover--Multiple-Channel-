@@ -1,0 +1,8 @@
+# Ignore .env files in any directory
+**/frontend/.env
+**/frontend/.env.example
+**/backend/.env
+**/backend/.env.example
+**/backend/node_modules
+**/frontend/node_modules
+README.md
